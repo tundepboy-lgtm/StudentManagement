@@ -1,2 +1,1 @@
-# Student Management System
-Version: 2.0 - Team Development
+Version: 2.0 - Developer A
